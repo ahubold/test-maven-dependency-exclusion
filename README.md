@@ -1,0 +1,1 @@
+# test-maven-dependency-exclusion
